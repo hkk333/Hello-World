@@ -1,2 +1,4 @@
 # Hello-World
-a simple project to study to use github
+在找SimpleCV安装错误的时候来的
+想起来了，其实是准备在github下载这个库的，结果来注册和学习使用方法了，感觉还行吧
+等下得赶紧去过早
